@@ -115,7 +115,3 @@ curl -X POST -H "Content-Type: application/json" -d '{"loginid":"your_login_id",
 ## 贡献
 
 欢迎任何形式的贡献，包括 bug 报告，新功能建议，代码贡献等。
-
-## 许可
-
-[MIT](https://github.com/your-github-account/your-repository/blob/main/LICENSE)
